@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"HexViewer",
+		"LaTeX Word Count",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"PlainTasks",
+		"Search Stack Overflow",
+		"SyncedSideBar",
+		"Table Editor",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}
