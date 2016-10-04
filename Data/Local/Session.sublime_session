@@ -1,9 +1,10 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Z_Z.W/Desktop"
 	],
 	"last_version": 3126,
-	"last_window_id": 3,
+	"last_window_id": 4,
 	"log_indexing": false,
 	"settings":
 	{
@@ -22,24 +23,16 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 380.0,
-				"last_filter": "setting",
+				"height": 375.0,
+				"last_filter": "inst",
 				"selected_items":
 				[
-					[
-						"setting",
-						"Preferences: Settings"
-					],
-					[
-						"settingsu",
-						"Preferences: Package Control Settings – User"
-					],
 					[
 						"inst",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 536.0
+				"width": 514.0
 			},
 			"console":
 			{
@@ -60,7 +53,14 @@
 			},
 			"file_history":
 			[
-				"/D/01_opensource/programmes/SublimeText3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/PlainTasks/messages/Tutorial.todo",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/User/Base File.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Git/Git.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/MarkdownEditing/README.md",
+				"/C/Users/Z_Z.W/Desktop/2016022319-《Redis設計與實現》讀書筆記-第一部分-第八章.md",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Package Control/Package Control.sublime-settings",
 				"/D/01_opensource/programmes/SublimeText3/packagecontrol.txt"
 			],
 			"find":
@@ -143,7 +143,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 296.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -170,24 +170,16 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 81.0,
+				"height": 375.0,
 				"last_filter": "inst",
 				"selected_items":
 				[
 					[
 						"inst",
 						"Package Control: Install Package"
-					],
-					[
-						"setting",
-						"Preferences: Settings"
-					],
-					[
-						"settingsu",
-						"Preferences: Package Control Settings – User"
 					]
 				],
-				"width": 536.0
+				"width": 514.0
 			},
 			"console":
 			{
@@ -208,9 +200,14 @@
 			},
 			"file_history":
 			[
-				"/D/01_opensource/programmes/apache-maven-2.0.7/conf/settings.xml",
-				"/D/01_opensource/programmes/apache-maven-3.0.5/conf/settings.xml",
-				"/D/01_opensource/programmes/SublimeText3/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Z_Z.W/Desktop/2016022319-《Redis設計與實現》讀書筆記-第一部分-第八章.md",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/PlainTasks/messages/Tutorial.todo",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Alignment/Base File.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/User/Base File.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Git/Git.sublime-settings",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/MarkdownEditing/README.md",
+				"/D/01_opensource/programmes/SublimeText3_init/SublimeText3/Data/Packages/Package Control/Package Control.sublime-settings",
 				"/D/01_opensource/programmes/SublimeText3/packagecontrol.txt"
 			],
 			"find":
@@ -329,7 +326,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 296.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

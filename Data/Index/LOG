@@ -1,0 +1,3 @@
+2016/10/04-11:43:43.000738 414 Recovering log #3
+2016/10/04-11:43:43.000740 414 Level-0 table #5: started
+2016/10/04-11:43:43.000743 414 Level-0 table #5: 9155 bytes IO error: D:\01_opensource\programmes\SublimeText3_init\SublimeText3\Data\Index\000005.ldb: Could not create random access file.

@@ -5,22 +5,21 @@
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
 		"BracketHighlighter",
-		"Compare Side-By-Side",
 		"ConvertToUTF8",
 		"Emmet",
 		"Git",
-		"HexViewer",
-		"LaTeX Word Count",
+		"Markdown Extended",
+		"Markdown Preview",
 		"MarkdownEditing",
-		"OmniMarkupPreviewer",
+		"Monokai Extended",
 		"Package Control",
 		"PlainTasks",
-		"Search Stack Overflow",
-		"SyncedSideBar",
-		"Table Editor",
+		"SublimeCodeIntel",
+		"SublimeLinter",
 		"Terminal",
-		"TrailingSpaces"
+		"Theme - Soda"
 	]
 }
